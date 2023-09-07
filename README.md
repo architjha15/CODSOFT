@@ -2,6 +2,10 @@
 These are some tasks to complete the internship offered by CodSoft.
 
 #1. Number Game<br>
+![Screenshot 2023-09-08 030947](https://github.com/architjha15/CODSOFT/assets/103206051/f890fe76-8e97-441e-83c1-fffb5de1d860)
 
+#2. Student Grade Calculator<br>
+![Screenshot 2023-09-08 030523](https://github.com/architjha15/CODSOFT/assets/103206051/967670a9-8a34-43cb-bab1-2b856468b281)
 
-![Screenshot 2023-08-18 165740](https://github.com/architjha15/CODSOFT/assets/103206051/cfd4db41-8258-4f11-afd3-0c55308af371)
+#3. ATM Interface
+![Screenshot 2023-09-08 031202](https://github.com/architjha15/CODSOFT/assets/103206051/bc618117-dadc-4986-b88e-92375274f284)
