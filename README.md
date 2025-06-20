@@ -1,5 +1,4 @@
-# CODSOFT
-These are some tasks to complete the internship offered by CodSoft.
+# Java Programs
 
 #1. Number Game<br>
 ![Screenshot 2023-09-08 030947](https://github.com/architjha15/CODSOFT/assets/103206051/f890fe76-8e97-441e-83c1-fffb5de1d860)
